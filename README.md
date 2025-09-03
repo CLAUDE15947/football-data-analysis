@@ -31,5 +31,5 @@ Chaque étape m’a appris quelque chose de nouveau et m’a montré l’importa
 
   Vous trouvez les captures d'ecran des visualisations ,
 
-  Merci de m'avoir lu pour toutes questions : jeanclaudebelingaemama@gamail.com 
+  Merci de m'avoir lu pour toutes questions : jeanclaudebelingaemama@gmail.com 
 
