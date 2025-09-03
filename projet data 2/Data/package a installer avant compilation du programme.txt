@@ -1,0 +1,7 @@
+mysql-connector-python
+pandas
+tabulate
+selenium
+undetected-chromedriver
+selenium-stealth
+webdriver-manager
